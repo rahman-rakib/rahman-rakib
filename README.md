@@ -15,7 +15,8 @@ I am a data scientist
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <br>
 <img align="left" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -23,16 +24,8 @@ I am a data scientist
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </details>
 
-
-
 <details>
-<summary>Stats</summary>
+<summary>GitHub Stats</summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true&theme=prussian" />
-</details>
-
-<details open>
-<summary>Languages</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman-rakib&layout=compact&hide=roff&exclude_repo=LeetCode_Problems,Supermarket-Customer-Behavior-Analysis,Solutions_Fragmentation,rahman-rakib&theme=prussian" />
 </details>
