@@ -8,7 +8,7 @@
 - :blue_heart: &nbsp; I love metal music :metal: travelling :airplane: and chess :chess_pawn:
 
 <details>
-<summary>Toolkit</summary>
+<summary>My Toolkit</summary>
 <br>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
