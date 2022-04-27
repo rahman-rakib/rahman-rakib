@@ -3,7 +3,7 @@
 ### I'm a Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
 
 - I'm currently a guest scientist :atom: @ [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)
-- My research articles :page_facing_up: in Physics can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
+- My research articles :page_facing_up: can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
 - I love metal music :metal: travelling :airplane: and chess :chess_pawn:
 
 <details open>
