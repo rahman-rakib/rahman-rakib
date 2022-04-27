@@ -1,6 +1,6 @@
 ## Hello there, this is Rakibur! :wave:
 
-### I'm a Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
+### A Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
 
 - I'm currently a guest scientist :atom: @ [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)
 - My research articles :page_facing_up: can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
