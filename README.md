@@ -1,6 +1,8 @@
 ## Hello there, this is Rakibur! :wave:
 
-### I am a machine learning and data science enthusiast, with keen interest in artificial intelligence
+### I'm a Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
+
+- I like metal music :metal:
 
 <details open>
 <summary>Toolkit</summary>
