@@ -35,5 +35,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true&theme=prussian">
 </details>
 
+<details>
+<summary>Reach Out</summary>
+<br>
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rakibur-rahman-phd-18877446/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rahmanrakib@gmail.com)
+</details>
