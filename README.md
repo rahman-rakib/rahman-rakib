@@ -34,3 +34,9 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true&theme=prussian" />
 </details>
+
+<details open>
+<summary>Reach out</summary>
+<br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</details>
