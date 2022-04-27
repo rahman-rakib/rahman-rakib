@@ -2,7 +2,7 @@
 
 ### I'm a Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
 
-- At present, I'm a guest scientist @ [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)
+- At present, I'm a guest scientist :man_scientist: @ [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)
 - I love metal music :metal: travelling :airplane: and chess :chess_pawn:
 
 <details open>
