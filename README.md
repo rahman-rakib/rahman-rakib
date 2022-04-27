@@ -7,7 +7,7 @@
 - :page_facing_up: &nbsp; My research articles can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
 - :blue_heart: &nbsp; I love metal music :metal: travelling :airplane: and chess :chess_pawn:
 
-<details open>
+<details>
 <summary>Toolkit</summary>
 <br>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
