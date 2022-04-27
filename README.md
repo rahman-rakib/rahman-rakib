@@ -1,6 +1,6 @@
 ## Hello there, this is Rakibur! :wave:
 
-I am a data scientist
+### I am a machine learning and data science enthusiast, with keen interest in artificial intelligence
 
 <details open>
 <summary>Toolkit</summary>
