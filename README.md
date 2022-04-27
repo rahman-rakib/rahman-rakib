@@ -3,7 +3,7 @@
 ### A Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
 
 - :atom: &nbsp; I'm currently a guest scientist @ [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)
-- :seedling: &nbsp; At present, I'm learning new tools for Optical Character Recognition and Natural Language Processing
+- :seedling: &nbsp; At present, I'm learning new tools for Optical Character Recognition (OCR) & Natural Language Processing (NLP)
 - :page_facing_up: &nbsp; My research articles can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
 - :blue_heart: &nbsp; I love metal music :metal: travelling :airplane: and chess :chess_pawn:
 
@@ -30,14 +30,14 @@
 </details>
 
 <details>
-<summary>GitHub stats</summary>
+<summary>GitHub Stats</summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true&theme=prussian">
 </details>
 
 <details>
-<summary>Reach me out</summary>
+<summary>Reach Out</summary>
 <br>
-<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rakibur-rahman-phd-18877446/)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </details>
