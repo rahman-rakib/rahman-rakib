@@ -32,7 +32,7 @@
 <details>
 <summary>GitHub Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true&theme=prussian">
 </details>
 
 
