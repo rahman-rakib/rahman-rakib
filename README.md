@@ -2,7 +2,7 @@
 
 ### A Machine Learning enthusiast with keen interest in Data Science and Artificial Intelligence
 
-- :atom: &nbsp; I'm currently a guest scientist @ [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)
+- :atom: &nbsp; I'm currently a data science teacher @ [Spiced Academy](https://www.spiced-academy.com/en)
 - :seedling: &nbsp; At present, I'm learning new tools for Optical Character Recognition (OCR) & Natural Language Processing (NLP)
 - :page_facing_up: &nbsp; My research articles can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
 - :blue_heart: &nbsp; I love metal music :metal: travelling :airplane: and chess :chess_pawn:
