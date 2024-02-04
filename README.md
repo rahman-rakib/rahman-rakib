@@ -2,8 +2,8 @@
 
 ### A Data Science Teacher with keen interest in Machine Learning and Artificial Intelligence
 
-- :atom: &nbsp; I'm currently a data science teacher @ [Spiced Academy](https://www.spiced-academy.com/en)
-- :seedling: &nbsp; At present, I'm learning new tools for Optical Character Recognition (OCR) & Natural Language Processing (NLP)
+- :atom: &nbsp; I am data science coach @ [Spiced Academy](https://www.spiced-academy.com/en)
+- :seedling: &nbsp; At present, I'm learning new tools for Time Series Analysis and Natural Language Processing (NLP)
 - :page_facing_up: &nbsp; My research articles can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
 - :blue_heart: &nbsp; I love metal music :metal: travelling :airplane: and chess :chess_pawn:
 
